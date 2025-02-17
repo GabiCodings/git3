@@ -1,0 +1,4 @@
+manual super completo
+
+pazo un: abra git
+pazo doz: faca comit
